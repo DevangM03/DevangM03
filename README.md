@@ -33,13 +33,13 @@ I'm a Backend & Systems Engineer based in New Delhi, completing my B.Tech in CSE
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevangM03&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6" alt="Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevangM03&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevangM03&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&v=1" alt="Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevangM03&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&v=1" alt="Top Languages" width="48%"/>
 </p>
 
 ### 🚀 Featured Engineering Work
 <a href="https://github.com/DevangM03/month-close-agent-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevangM03&repo=month-close-agent-system&theme=transparent&hide_border=true&title_color=3B82F6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevangM03&repo=month-close-agent-system&theme=transparent&hide_border=true&title_color=3B82F6&v=1" />
 </a>
 
 <br/>
