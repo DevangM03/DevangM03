@@ -38,16 +38,17 @@ I'm a Backend & Systems Engineer based in New Delhi, completing my B.Tech in CSE
 </p>
 
 ### 🚀 Featured Engineering Work
-<a href="https://github.com/DevangM03/month-close-agent-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevangM03&repo=month-close-agent-system&theme=transparent&hide_border=true&title_color=3B82F6&v=1" />
-</a>
-
-<br/>
-<br/>
-
-* 🚧 **distributed-l4-load-balancer:** *(Pushing soon)* A custom L4 load balancer built with Python and TCP/IP.
-* 🚧 **agentic-chat-pipeline:** *(Pushing soon)* Real-time React/Firebase chat system integrated with the Gemini API.
-* 🚧 **ticket-analyzer-api:** *(Pushing soon)* Automated ticketing workflows using FastAPI.
+<p align="center">
+  <a href="https://github.com/DevangM03/month-close-agent-system">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevangM03&repo=month-close-agent-system&theme=transparent&hide_border=true&title_color=3B82F6&v=1" width="300" />
+  </a>
+  <a href="https://github.com/DevangM03/ai-chat-summarizer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevangM03&repo=ai-chat-summarizer&theme=transparent&hide_border=true&title_color=3B82F6&v=1" width="300" />
+  </a>
+  <a href="https://github.com/DevangM03/python-tcp-load-balancer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevangM03&repo=python-tcp-load-balancer&theme=transparent&hide_border=true&title_color=3B82F6&v=1" width="300" />
+  </a>
+</p>
 
 ---
 *(Fun fact: When I'm not optimizing backend latency, you can usually find me on the football pitch—I play at the state level and formerly captained my school team.)*
